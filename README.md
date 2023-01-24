@@ -13,12 +13,9 @@ Includes Identification tools for and Video
 
 ## [Technologies](#technologies)
 This project is made possible thanks to: 
-* Python 3.8.8
-* Spyder 4
-* microfaune (https://github.com/microfaune/microfaune)
-* BirdNet (https://github.com/kahst/BirdNET)
+* Python 3
 * Google Cloud Vision
-* Laptop provided by Dr. Matrin Brooke (Duke University)
+* Dr. Matrin Brooke and the Duke University XPRIZE team
 
 ## [Installation](#installation)
 1. Install Python on your computer. 
