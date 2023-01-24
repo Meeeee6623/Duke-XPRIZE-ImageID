@@ -1,4 +1,4 @@
-# ECE-590-Identification-of-Species
+# Identification-of-Species by Images/Video
 Repository for Rainforest Engineering/Sp23 XPRIZE Identification of 
 Species Team.
 Includes Identification tools for and Video
